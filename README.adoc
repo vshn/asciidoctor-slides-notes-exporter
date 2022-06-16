@@ -1,0 +1,7 @@
+= Speaker Notes Extractor
+
+This project generates a Docker image to be used to extract the notes of a `slides.html` file into a separate Asciidoc file.
+
+== Usage
+
+`docker run --rm --volume ${PWD}:/convert vshn/slides-notes-exporter:1.0 /convert/slides.adoc`
