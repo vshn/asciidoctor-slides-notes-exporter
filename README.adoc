@@ -1,6 +1,6 @@
 = Speaker Notes Extractor
 
-This project generates a Docker image to be used to extract the notes of a `slides.html` file.
+This project generates a Docker image to be used to extract the notes of a `slides.adoc` file.
 
 == Usage
 
